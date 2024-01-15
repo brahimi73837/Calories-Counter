@@ -3,6 +3,10 @@
 
 This project focuses on learning form validation in JavaScript, specifically by building a calorie counter. It serves as a practical exercise to understand how to handle user input, validate data, perform calculations, and dynamically update the interface to reflect the results.
 
+**Live Preview:** 
+
+https://brahimi73837.github.io/Calories-Counter/
+
 **Overview**
 
 In the process of developing this calorie counter, I gained hands-on experience with essential JavaScript concepts, including:
